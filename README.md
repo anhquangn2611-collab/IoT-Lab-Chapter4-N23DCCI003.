@@ -2,7 +2,7 @@
 
 **Họ tên:** Nguyễn Quang Anh
 **MSSV:** N23DCCI003
-**Lớp:** D23... (Sửa thành tên lớp thật của bạn ở đây)
+**Lớp:** D23CQCI01-N
 
 ## Danh sách bài tập
 
