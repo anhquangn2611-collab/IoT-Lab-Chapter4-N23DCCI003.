@@ -21,4 +21,4 @@ except KeyboardInterrupt:
     print('\nDừng giám sát.')
 finally:
     log_file.close()
-    print('Log saved to system_log.txt')
+    print('Log saved to system_log.txt') 
