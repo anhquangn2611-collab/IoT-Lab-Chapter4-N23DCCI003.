@@ -38,4 +38,4 @@ if __name__ == "__main__":
     us = SimUltrasonic(echo=24, trigger=23)
     print(f"Distance: {us.distance:.1f} cm")
     pot = SimPotentiometer()
-    print(f"Pot value: {pot.value}")
+    print(f"Pot value: {pot.value}") 
